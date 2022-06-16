@@ -17,5 +17,6 @@ TensorFlow for Text Classification Tutorial – Machine Learning & Neural Networ
 <li>Calculating the Accuracy  
 <li>Learning and Predicting
 <li>TensorFlow for Text Classification
+<li>Python TensorFlow
 
   
